@@ -1,0 +1,76 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+header {
+    background-color: #1F4529;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+a:hover{
+    color: white;
+    background-color: #1F4529;
+}
+
+a {
+    border: 3px solid #1F4529;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    background-color: #E8ECD7;
+}
+
+.Infor1 {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 50px;
+    border: 10px solid  #1F4529;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.Pagra1 {
+  margin: 15px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.Pagra1 p{
+  font-size: 20px;
+}
+
+.CardTitle {
+    text-align: center;
+}
+
+table td{
+  font-size: 20px;
+}
+
+footer {
+  display: flex;
+  margin-top: 50px;
+  background-color: #1F4529;
+  color: white;
+}
+
+footer img {
+  margin: 30px;
+}
+
+.FooterInfo {
+  margin: 10px;
+}
