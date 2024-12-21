@@ -62,6 +62,16 @@ table td{
   font-size: 20px;
 }
 
+.BackToTop a{
+  margin-left: 650px;
+  border: 2px solid black;
+  width: 100px;
+  padding: 5px;
+  background-color: #66785F;
+  color: white;
+}
+
+
 footer {
   display: flex;
   margin-top: 50px;
