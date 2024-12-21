@@ -1,0 +1,54 @@
+<html>
+    <title>WDY2 Andrew Example</title>
+    <link type="text/css" rel="stylesheet" href="gamefunction_style.css">
+    <body>
+        <header>
+            <h1 id="top">REVIEW: Giga Mansion Tycoon 🏝️</h1>
+        </header>
+        <main>
+          <nav>
+            <a href="#">HOME PAGE</a>
+            <a href="#">GAME FUNCTION</a>
+            <a href="#">SELLING</a>
+            <a href="https://tuananhphan.wixsite.com/aboutme">ANDREW</a>
+          </nav>
+          <section class="InfoImage">
+            <div class="image01">
+              <img src="https://res-console.cloudinary.com/dhmfephoq/media_explorer_thumbnails/3c0f3b6963a49a1f090efca7589e67ce/detailed" width="350px" height="300px"/>
+              <h3>Ruong Ngau Nhien</h3>
+              <p>Short description...</p>
+            </div>
+            <div class="image01">
+              <img src="https://tr.rbxcdn.com/180DAY-5cc07c05652006d448479ae66212782d/768/432/Image/Webp/noFilter" width="350px" height="300px"/>
+              <h3>Cong cu</h3>
+              <p>Short description...</p>
+            </div>
+            <div class="image01">
+              <img src="https://tr.rbxcdn.com/180DAY-5cc07c05652006d448479ae66212782d/768/432/Image/Webp/noFilter" width="350px" height="300px"/>
+              <h3>Cua hang mua do</h3>
+              <p>Short description...</p>
+            </div>
+            <div class="image01">
+              <img src="https://res-console.cloudinary.com/dhmfephoq/media_explorer_thumbnails/3c0f3b6963a49a1f090efca7589e67ce/detailed" width="350px" height="300px"/>
+              <h3>Ruong Ngau Nhien</h3>
+              <p>Short description...</p>
+            </div>
+          </section>
+          <h2> Here are some Videos of the game</h2>
+          <section class="InfoVideo">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pANVCLy3CIk?si=sOklRX6TDTRkiARQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WUfU9f0p_z0?si=v1r16HZ1p9JnLf5_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/EgSw09i3xW0?si=5AM5pQX0LPZJXj6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </section>
+          <div class="BackToTop">
+            <h3><a href="#top">Back To Top</a></h3>
+          </div>
+        </main>
+        <footer>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEBYbvxS4-h8CfJjx88SC0sjs6wzjMCVk7w&s" width="70px" height="70px"/>
+          <div class="FooterInfo">
+            <p>Tên Website</br>Email liên hệ</br>SĐT</br>Địa chỉ</p>
+          </div>
+        </footer>
+    </body>
+</html>
