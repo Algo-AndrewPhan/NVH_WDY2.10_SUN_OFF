@@ -7,8 +7,8 @@
         </header>
         <main>
           <nav>
-            <a href="#">HOME PAGE</a>
-            <a href="#">GAME FUNCTION</a>
+            <a href="index.html">HOME PAGE</a>
+            <a href="page_gamefunction.html">GAME FUNCTION</a>
             <a href="#">SELLING</a>
             <a href="https://tuananhphan.wixsite.com/aboutme">ANDREW</a>
           </nav>
